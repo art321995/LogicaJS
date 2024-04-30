@@ -1,4 +1,4 @@
-
+//Validacion de un array con peliculas el cual valida si las has visto o no
 
 function misPeliculas(peliculas){
     for(pelicula of peliculas){

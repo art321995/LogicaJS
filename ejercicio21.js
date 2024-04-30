@@ -1,4 +1,4 @@
-
+//Recorta un string con un numero asignado
 
 function recortar(texto, hasta){
     let resultado = "";

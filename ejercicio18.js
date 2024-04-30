@@ -1,4 +1,4 @@
-
+// Numero diviores de un numero dado
 
 function divisores(numero, posibleDivisor){
 
