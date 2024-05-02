@@ -1,4 +1,4 @@
-
+//Numeros que son permutacion
 
 function permutacion(secuencia, numero){
 

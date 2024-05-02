@@ -1,3 +1,5 @@
+//Valida un texto y define si son mas mayusculas o minusculas y asi coloca en texto
+
 
 function mayusMinus(texto){
 

@@ -1,4 +1,4 @@
-
+//Facorial de un numero
 
 function factorial(numero){
 

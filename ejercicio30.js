@@ -1,4 +1,4 @@
-
+//Eliminar string y numeros duplicados
 
 function eliminarDuplicado(elementos){
 

@@ -1,4 +1,4 @@
-
+//Calcula los dias vividos
 
 function calcularDias (dias){
 

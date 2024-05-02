@@ -1,4 +1,4 @@
-
+//Coloca la primera letra en mayusculas
 
 function mayusculas(texto){
     let resultado = "";
