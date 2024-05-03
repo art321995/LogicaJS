@@ -1,0 +1,14 @@
+{
+  "name": "test-ejercicios",
+  "version": "1.0.0",
+  "description": "test con jest para ajercicios de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Arturo Esqueda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
